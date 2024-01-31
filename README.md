@@ -1,7 +1,7 @@
 <p float="left">
-  <img src="https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780" width="500" height="110" title="BrowserStack">
+  <img src="https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780" width="300" height="110" title="BrowserStack">
   <img src="https://i.imgur.com/I3vu3uh.png" width="100" height="100" title="Slash">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Virgin_Atlantic_logo.svg/2560px-Virgin_Atlantic_logo.svg.png" width="400" height="150" title="AdobeExpress">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Virgin_Atlantic_logo.svg/2560px-Virgin_Atlantic_logo.svg.png" width="300" height="150" title="AdobeExpress">
 </p>
 
 # Cucumber WebdriverIO Foundation <a href="https://webdriver.io/"><img src="https://avatars.githubusercontent.com/u/72550141?s=48&v=4" alt="WebdriverIO" height="22" /></a> <a href="https://nodejs.org/en/"><img src="https://brandslogos.com/wp-content/uploads/images/large/nodejs-icon-logo.png" alt="nodejs" height="22" /></a> <a href="https://mochajs.org/"><img src="https://brandslogos.com/wp-content/uploads/images/large/mocha-logo.png" alt="mochs" height="22" /></a>
